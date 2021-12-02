@@ -10,7 +10,7 @@ url: "https://brainhack-magdeburg.github.io" # the base hostname & protocol for 
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
   - { name: "Schedule", link: "/schedule" }
-  - { name: "Projects", link: "/projects" }
+  - { name: "Tutorials", link: "/tutorials" }
   - { name: "Social Events", link: "/social-events" }
   - { name: "About", link: "/about" }
   - { name: "Contact", link: "/contact" }
@@ -18,7 +18,7 @@ navigation: # Navigation links
 # tagline: >
 #   Online edition: December 7th - 8th
 
-hero_img: posts/bhd2021_banner_dates.svg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/bhm2021_banner_dates.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: brainhack.magdeburg@gmail.com # email for form submission
 
