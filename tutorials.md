@@ -11,5 +11,5 @@ permalink: /tutorials/
 ### For attendees:
 
 
-### For project leaders:
+### For tutorial leaders:
 
