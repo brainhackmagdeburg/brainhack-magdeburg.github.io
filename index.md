@@ -16,16 +16,10 @@ Brainhack Magdeburg is part of a larger initiative that holds simultaneous event
 
 If you'd like to know more about what the different working groups have prepared for this year's edition, go check out our [schedule](https://brainhack-magdeburg.github.io/schedule/)!
 
-<!-- ## Registration
-
-Registration for Brainhack Donostia 2021 is still **OPEN**!
-
-This year's edition will be held online, which means it will be **completely free** for participants and we will be able to host people from all around the world, making this year's edition bigger, better, and even more inclusive than ever before!
-
-<a href="https://brainhack-donostia.github.io/registration/" target="_blank"><img class="cta_button" src="assets/img/posts/CTAregister.jpg" alt=""></a> -->
 
 ## Acknowledgements
 
 The Organising Committee would like to thank 
 
+<img src="https://raw.githubusercontent.com/brainhack-magdeburg/brainhack-magdeburg.github.io/master/assets/img/posts/logos.png" alt="">
 
