@@ -8,4 +8,6 @@ This is going to be the first Brainhack in Magdeburg since a lot of years and we
 
 ## Committee
 
-**We thank everyone who helped organize the previous edition of BrainHack Magdeburg!**
+The 2021 iteration of **Brainhack Magdeburg** was organized by the following people:
+
+Anika Dirks, Peer Herholz, Lara Kramer, Patrick Kraus, Elisa Lancini, Steve Schulz and Alexander Weuthen. 
