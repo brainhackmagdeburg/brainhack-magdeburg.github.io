@@ -10,8 +10,7 @@ We'll have 4 tutorials in total, splitted into two overaching topics and program
 
 
 ## Day 1 - Tutorial 1 - Intro to Python
-This introductory tutorial covers the basic syntax and functions of Python, which are useful for getting started with this language and give you the basics to analyse your own data.
-
+This introductory tutorial covers the very first steps how to start working with Python (installation, different IDEs, where to get help, and resources to learn python) and brings you closer to the first coding. 
 
 ## Day 1 - Tutorial 2 - fMRI in Python
 This tutorial will discuss how to use the Python programming language in the analysis of neuroimaging data, from preprocessing to statistical analysis using Nipy, Nipype and Nilearn.
