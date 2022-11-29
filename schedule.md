@@ -6,7 +6,9 @@ permalink: /schedule/
 
 You can download the calendar to your device by clicking [here](https://calendar.google.com/calendar/ical/brainhack.magdeburg%40gmail.com/public/basic.ics).
 
-Attendees will be to work on collaborative projects while the scheduled events and tutorials are taking place. See more on the [tutorials page](https://brainhack-magdeburg.github.io/tutorials/).
+Attendees will be to work on collaborative projects while the scheduled events and tutorials are taking place. See more on the [sessions page](https://brainhack-magdeburg.github.io/tutorials/). All sessions will take place in HEBB ROOM I at Leibniz Institute for Neurobiology I, Brenneckestraße 6 I 39118 Magdeburg.
+
+
 
 Times displayed on the calendar are automatically updated based on your time zone.
 
