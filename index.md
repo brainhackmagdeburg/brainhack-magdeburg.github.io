@@ -10,7 +10,7 @@ title:
 
 Welcome back to a fresh new edition of Brainhack Magdeburg!
 
-From the BrainHack organizing team we are happy to present Brainhack Magdeburg 2021. 
+From the BrainHack organizing team we are happy to present Brainhack Magdeburg 2022. 
 
 Brainhack Magdeburg is part of a larger initiative that holds simultaneous events all over the world with this same goal ([brainhack.org](https://brainhack.org)). A cornerstone of Brainhack is the promotion of responsible research and innovation in an inclusive, open, and transparent manner. Accordingly, knowledge sharing activities and the use of open-source resources are two of the basic tenets of Brainhack.
 

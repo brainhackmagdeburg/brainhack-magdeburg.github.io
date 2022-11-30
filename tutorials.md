@@ -4,25 +4,21 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-# Tutorials
+# Sessions
 
-We'll have 4 tutorials in total, splitted into two overaching topics and programming languages. They will aim at providing an introduction to the specific programming language and subsequently show how to conduct analyses in them. In the following we provide more information.
+We'll have 4 sessions in total, divided into hands-on tutorials, talks/discussions and open hacking. They will aim at providing an introduction to various parts of the "open & reproducible (neuro)science" realm, as well as foster interdisciplinary research and respective approachs.
 
+## Session 1 - Round Table
+“Thinking about breaking cross-technique and cross-species boundaries in data analysis”  with Janelle Pakan 
 
-## Day 1 - Tutorial 1 - Intro to Python
-This introductory tutorial covers the very first steps how to start working with Python (installation, different IDEs, where to get help, and resources to learn python) and brings you closer to the first coding. 
+## Session 2 - Hands-on tutorial
+“M/EEG and MRI analysis in Python using MNE and Nipype” with [Malte Gueth](https://maltegueth.github.io/) (Center for Molecular and Behavioral Neuroscience, Rutgers University Newark, USA). This workshop will be an introductory overview of M/EEG and MRI analysis in Python. Both preprocessing and inferential statistics will be covered.
 
-## Day 1 - Tutorial 2 - fMRI in Python
-This tutorial will discuss how to use the Python programming language in the analysis of neuroimaging data, from preprocessing to statistical analysis using Nipy, Nipype and Nilearn.
-
-
-## Day 2 - Tutorial 1 - Intro to R
-This short tutorial will give an overview of the basis of the syntax, common functions and basic operations in R. 
-We will take the first steps together to discover the basics of R programming and get solid foundations for future learning.
-The tutorial will be followed by a hands-on part where you can download the code shown during the tutorial and try to use it with your own data
+## Session 3 - Open Hacking 
+Free hacking on (your own) projects, get feedback and support regarding data/project management (BIDS, computational environments, BIDS-Apps, QC, version control, etc.) and various analyses (connectivity, uni-/multivariate statistics, machine learning, encoding, etc.) with Alexander Weuthen and [Peer Herholz](https://peerherholz.github.io/).
 
 
-## Day 2 - Tutorial 2 - Meta-analysis in R
-During this tutorial you will be walked through the process of conducting a meta-analysis: from preparing the data in excel to the functions used in R to assess outliers and complete the effect-size calculation. 
-The tutorial is based on analyses conducted for this publication. 
-[https://doi.org/10.1101/2021.09.30.21264271](https://doi.org/10.1101/2021.09.30.21264271).
+## Session 4 - Unconference 
+“Sharing is Caring: Sneak Peek at the World of Open-source with GitHub” with Soumick Chatterjee.
+
+Abstract: Open-source tools have the potential to simplify our research life and help us save ample amount of time – by not repeating things already done by others. On the other hand, we should also support the community by making our research open. When it comes to coding, we need the support of version controlling and open-source code sharing platform GitHub to achieve this goal. In my talk, I will be providing a gentle introduction to version controlling using GitHub – while also introducing some open-source tool for image analysis, machine learning (including deep learning).
