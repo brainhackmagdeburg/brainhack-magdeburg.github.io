@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-title: Brainhack Magdeburg # your site title
-author: Brainhack Magdeburg # You :P
+title: Brainhack 2024 Magdeburg # your site title
+author: Brainhack 2024 Magdeburg # You :P
 description: > # Meta description of Homepage
   Website of the Brainhack Magdeburg organization.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://brainhack-magdeburg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brainhackmagdeburg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -20,10 +20,10 @@ navigation: # Navigation links
 
 hero_img: posts/Brainhack_transparent.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: brainhack.magdeburg@gmail.com # email for form submission
+email: brainhack2024.magdeburg@gmail.com # email for form submission
 
 #twitter_username:  # replace with your_twitter_username or comment to remove link from footer
-github_username: brainhack-magdeburg/brainhack-magdeburg.github.io # replace with your_github_username or comment to remove link from footer
+github_username: brainhackmagdeburg/brainhackmagdeburg.github.io # replace with your_github_username or comment to remove link from footer
 mattermost_channel: bhg-magdeburg # replace with your_instagram_username or comment to remove link from footer
 
 # google_tag_manager: GTM-NT2CFFQ # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID

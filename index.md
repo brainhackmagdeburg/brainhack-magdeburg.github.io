@@ -8,18 +8,18 @@ layout: default
 title:
 ---
 
-Welcome back to a fresh new edition of Brainhack Magdeburg!
+Welcome back to a fresh new edition of Brainhack 2024 Magdeburg!
 
-From the BrainHack organizing team we are happy to present Brainhack Magdeburg 2022. 
+From the BrainHack organizing team we are happy to present Brainhack Magdeburg 2024. 
 
 Brainhack Magdeburg is part of a larger initiative that holds simultaneous events all over the world with this same goal ([brainhack.org](https://brainhack.org)). A cornerstone of Brainhack is the promotion of responsible research and innovation in an inclusive, open, and transparent manner. Accordingly, knowledge sharing activities and the use of open-source resources are two of the basic tenets of Brainhack.
 
-If you'd like to know more about what the different working groups have prepared for this year's edition, go check out our [schedule](https://brainhack-magdeburg.github.io/schedule/)!
+If you'd like to know more about what the different working groups have prepared for this year's edition, go check out our [schedule](https://brainhackmagdeburg.github.io/schedule/)!
 
 
 ## Acknowledgements
 
 The Organising Committee would like to thank 
 
-<img src="https://raw.githubusercontent.com/brainhack-magdeburg/brainhack-magdeburg.github.io/master/assets/img/posts/logos.png" alt="">
+<img src="https://raw.githubusercontent.com/brainhackmagdeburg/brainhackmagdeburg.github.io/master/assets/img/posts/logos.png" alt="">
 
