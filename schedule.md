@@ -4,6 +4,6 @@ title: Schedule
 permalink: /schedule/
 ---
 
-Will be update soon...
+Will be updated soon...
 
 
