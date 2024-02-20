@@ -47,6 +47,6 @@ The datasets to choose from are described below
     </tr>
   </table>
 
-### Getting ready 
+## Getting ready 
 The Dataset Leaders will soon provide documentation to assist you in setting up your laptop for effective analysis of the chosen dataset.
 
