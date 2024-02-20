@@ -3,6 +3,10 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
+
+Attendees will be to work on collaborative projects on three different datasets (See more on the sessions page).
+All sessions will take place in HEBB ROOM I at Leibniz Institute for Neurobiology I, Brenneckestraße 6 I 39118 Magdeburg.
+
 <h3>Day 1 - 18.03</h3>
   <ul>
     <li>12:00 - Lunch</li>
