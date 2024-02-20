@@ -4,7 +4,8 @@ title: Schedule
 permalink: /schedule/
 ---
 
-Attendees will be to work on collaborative projects on three different datasets (See more on the sessions page).
+<p>After a first introduction to the event, attendees will have the opportunity to work on collaborative projects involving three different datasets. You can explore the available datasets <a href="https://github.com/brainhackmagdeburg/brainhackmagdeburg.github.io/blob/f9d9c6c346d78bc7f367232fc78e8afdc95c112c/tutorials.md" target="_blank">here</a>. 
+
 All sessions will take place in HEBB ROOM I at Leibniz Institute for Neurobiology I, Brenneckestraße 6 I 39118 Magdeburg.
 
 <h3>Day 1 - 18.03</h3>
