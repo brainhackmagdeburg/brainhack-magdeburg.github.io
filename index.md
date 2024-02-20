@@ -8,11 +8,14 @@ layout: default
 title:
 ---
 
-Welcome back to a fresh new edition of Brainhack 2024 Magdeburg!
+<p style="text-align: center;">Welcome back to a fresh new edition of Brainhack 2024 Magdeburg!</p>
 
-From the BrainHack organizing team we are happy to present Brainhack Magdeburg 2024. 
+<p> Join the two-day Brainhack event with open-hacking sessions and talks. Choose between <strong> human fMRI, neuronal recording, or protein expression datasets </strong> and work on your analyses in a collaborative environment.</p>
 
-Brainhack Magdeburg is part of a larger initiative that holds simultaneous events all over the world with this same goal ([brainhack.org](https://brainhack.org)). A cornerstone of Brainhack is the promotion of responsible research and innovation in an inclusive, open, and transparent manner. Accordingly, knowledge sharing activities and the use of open-source resources are two of the basic tenets of Brainhack.
+<p> <strong> You are a beginner? Don't worry!</strong> All levels of expertise are welcome! The hands-on sessions are supervised so you can ask questions on your analyses, get feedback, and/or team up with others to address the same challenge.</p>
+
+<p>Food and drinks provided—all you need to bring is your laptop! 
+<strong> <a href="https://forms.gle/WWRWrJzwvbvpBnaUA">Registration is required </a>.</strong></p>
 
 If you'd like to know more about what the different working groups have prepared for this year's edition, go check out our [schedule](https://brainhackmagdeburg.github.io/schedule/)!
 
@@ -21,5 +24,5 @@ If you'd like to know more about what the different working groups have prepared
 
 The Organising Committee would like to thank 
 
-<img src="https://raw.githubusercontent.com/brainhackmagdeburg/brainhackmagdeburg.github.io/master/assets/img/posts/logos.png" alt="">
+![Acknowledgments](https://github.com/brainhackmagdeburg/brainhackmagdeburg.github.io/assets/159427588/025eef8b-6521-4197-a115-59854a770990)
 
