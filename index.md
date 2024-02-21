@@ -7,7 +7,12 @@
 layout: default
 title:
 ---
-### <p style="text-align: center;"> <a href="https://forms.gle/WWRWrJzwvbvpBnaUA"> Click here to register! </a> </p>
+
+<p style="text-align: center;">
+  <a href="https://forms.gle/WWRWrJzwvbvpBnaUA">
+    <button type="button" style="background-color: blue; color: white;">Click here to register!</button>
+  </a>
+</p>
 
 <p style="text-align: center;"> Welcome back to a new edition of Brainhack Magdeburg!</p>
 
