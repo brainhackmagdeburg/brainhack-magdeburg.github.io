@@ -10,7 +10,7 @@ title:
 
 <p style="text-align: center;">
   <a href="https://forms.gle/WWRWrJzwvbvpBnaUA">
-    <button type="button" style="background-color: #065078; color: white; padding: 10px 20px; font-size: 16px;">Click here to register!</button>
+    <button type="button" style="background-color: #065078; color: white; padding: 15px 30px; font-size: 20px;">Click here to register!</button>
   </a>
 </p>
 
