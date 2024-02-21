@@ -18,7 +18,7 @@ navigation: # Navigation links
 # tagline: >
 #   Online edition: December 7th - 8th
 
-hero_img: posts/BHM24_Flyer_small-2.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/BHM24_Flyer_small-3.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: brainhack2024.magdeburg@gmail.com # email for form submission
 
