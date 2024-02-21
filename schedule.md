@@ -11,6 +11,7 @@ All sessions will take place in HEBB ROOM I at Leibniz Institute for Neurobiolog
 
 <style>
   h3 {
+    font-weight: bold;
     color: #065078;
   }
   .bold-color {
@@ -18,6 +19,7 @@ All sessions will take place in HEBB ROOM I at Leibniz Institute for Neurobiolog
     color: #23a99f;
   }
   .unconference {
+    font-weight: bold;
     color: #e0d821;
   }
 </style>
