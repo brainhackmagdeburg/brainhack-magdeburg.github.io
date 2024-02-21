@@ -14,7 +14,7 @@ title:
   </a>
 </p>
 
-<p style="text-align: center;"> Welcome back to a new edition of Brainhack Magdeburg!</p>
+<p style="text-align: center;"> Welcome back to a new edition of Brainhack Magdeburg @OVGU Medical Campus!</p>
 
 <p> Join the two-day Brainhack event with open-hacking sessions and talks. Choose between <strong> human fMRI, neuronal recording, or protein expression datasets </strong> and work on your analyses in a collaborative environment.</p>
 
