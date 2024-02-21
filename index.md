@@ -10,7 +10,7 @@ title:
 
 <p style="text-align: center;">
   <a href="https://forms.gle/WWRWrJzwvbvpBnaUA">
-    <button type="button" style="background-color: blue; color: white;">Click here to register!</button>
+    <button type="button" style="background-color: #2cbfb7; color: white; padding: 10px 20px; font-size: 16px;">Click here to register!</button>
   </a>
 </p>
 
@@ -27,5 +27,6 @@ If you'd like to know more about what the different working groups have prepared
 ## Acknowledgements
 
 The Organising Committee would like to thank 
+
 ![Acknowledgments](https://github.com/brainhackmagdeburg/brainhackmagdeburg.github.io/assets/159427588/025eef8b-6521-4197-a115-59854a770990)
 
