@@ -25,17 +25,17 @@ All sessions will take place in HEBB ROOM I at Leibniz Institute for Neurobiolog
 <h3>Day 1 - 18.03</h3>
   <ul>
     <li>12:00-13:30 - Lunch</li>
-    <li><span class="bold-color">12:30-13:00 - Introduction</span> to Brainhack& Datasets Presentation </li>
-    <li><span class="bold-color">13:00-15:00 - Teams organisation & Open Hacking</span></li>
-    <li><span class="unconference">15:00-15:30 - Unconference:</span> - Gabriel Ziegler</li>
-    <li><span class="bold-color">15:30-17:30 - Open Hacking</span></li>
+    <li>12:30-13:00 - Introduction to Brainhack& Datasets Presentation </li>
+    <li>13:00-15:00 - Teams organisation & <span class="bold-color">Open Hacking</span></li>
+    <li>15:00-15:30 - <span class="unconference">Unconference:</span> - Gabriel Ziegler</li>
+    <li>15:30-17:30 - <span class="bold-color">Open Hacking</span></li>
   </ul>
 
 <h3>Day 2 - 19.03</h3>
   <ul>
-    <li><span class="bold-color">13:00-16:30 - Open Hacking</span></li>
+    <li>13:00-16:30 - <span class="bold-color">Open Hacking</span></li>
     <li>16:30-17:00 - Project Wrap-ups & Conclusion </li>
-    <li><span class="unconference">17:00-17.30 Unconference:</span> "Cognitive BCIs for Rodents" - Davide Ciliberti </li>
+    <li>17:00-17.30 - <span class="unconference"> Unconference:</span> "Cognitive BCIs for Rodents" - Davide Ciliberti </li>
     <li>Social Event</li>
   </ul>
 
