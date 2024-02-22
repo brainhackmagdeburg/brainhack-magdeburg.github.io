@@ -1,4 +1,4 @@
-/*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
+*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 html {
     line-height: 1.15;
     -ms-text-size-adjust: 100%;
@@ -1451,7 +1451,7 @@ table td {
     background-color: #fff;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 200% 100%;
+    background-size: 105% 85%;
 }
 
 @media only screen and (min-width: 62em) {
@@ -1745,7 +1745,7 @@ table td {
 
 /* Logo */
 .logo {
-    height: 100%;
+    height: 88%;
     position: absolute;
     margin-top: -15px;
 }
