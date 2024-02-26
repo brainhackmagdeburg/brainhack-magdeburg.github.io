@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 <p>After a first introduction to the event, attendees will have the opportunity to work on collaborative projects involving three different datasets. You can explore the available datasets <a href="https://brainhackmagdeburg.github.io/tutorials/">here</a>. 
-<p>All sessions will take place in HEBB ROOM I at Leibniz Institute for Neurobiology I, Brenneckestraße 6 I 39118 Magdeburg.</p>
+<p>All sessions will take place at the Ebbinhaus Room (Conference room) at Leibniz Institute for Neurobiology I, Brenneckestraße 6 I 39118 Magdeburg.</p>
 
 <style>
   h3 {
