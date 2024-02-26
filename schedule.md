@@ -16,7 +16,7 @@ permalink: /schedule/
     font-weight: bold;
     color: #23a99f;
   }
-  .unconference {
+  .Talk {
     font-weight: bold;
     color: #e0d821;
   }
@@ -24,18 +24,17 @@ permalink: /schedule/
 
 <h3>Day 1 - 18.03</h3>
   <ul>
-    <li>12:00-13:30 - Lunch</li>
-    <li>12:30-13:00 - Introduction to Brainhack& Datasets Presentation </li>
+    <li>13:00-13:30 - Introduction to Brainhack & Datasets Presentation </li>
     <li>13:00-15:00 - Teams organisation & <span class="bold-color">Open Hacking</span></li>
-    <li>15:00-15:30 - <span class="unconference">Unconference:</span> - Gabriel Ziegler</li>
+    <li>15:00-15:30 - <span class="Talk">Talk:</span> "Introduction to fMRI analysis" - Gabriel Ziegler</li>
     <li>15:30-17:30 - <span class="bold-color">Open Hacking</span></li>
   </ul>
 
 <h3>Day 2 - 19.03</h3>
   <ul>
     <li>13:00-16:30 - <span class="bold-color">Open Hacking</span></li>
-    <li>16:30-17:00 - Project Wrap-ups & Conclusion </li>
-    <li>17:00-17.30 - <span class="unconference"> Unconference:</span> "Cognitive BCIs for Rodents" - Davide Ciliberti </li>
+    <li>16:30-17:00 - <span class="talk"> Talk:</span> "Cognitive BCIs for Rodents" - Davide Ciliberti </li>
+    <li>17:00-17.30 - Project Wrap-ups & Conclusion </li>
     <li>Social Event</li>
   </ul>
 
