@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-title: Brainhack 2024 Magdeburg # your site title
-author: Brainhack 2024 Magdeburg # You :P
+title: Brainhack Magdeburg # your site title
+author: Brainhack Magdeburg # You :P
 description: > # Meta description of Homepage
   Website of the Brainhack Magdeburg organization.
 baseurl: "" # the subpath of your site, e.g. /blog
