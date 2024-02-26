@@ -33,7 +33,7 @@ permalink: /schedule/
 <h3>Day 2 - 19.03</h3>
   <ul>
     <li>13:00-16:30 - <span class="bold-color">Open Hacking</span></li>
-    <li>16:30-17:00 - <span class="talk"> Talk:</span> "Cognitive BCIs for Rodents" - Davide Ciliberti </li>
+    <li>16:30-17:00 - <span class="talk"> Talk:</span> "Real-time detection of hippocampal replay patterns for closed-loop experiments" - Davide Ciliberti </li>
     <li>17:00-17.30 - Project Wrap-ups & Conclusion </li>
     <li>Social Event</li>
   </ul>
