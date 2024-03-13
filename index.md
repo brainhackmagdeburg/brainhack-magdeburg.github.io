@@ -16,7 +16,6 @@ title:
 
 <p> <strong> You are a beginner? Don't worry!</strong> All levels of expertise are welcome! The hands-on sessions are supervised so you can ask questions on your analyses, get feedback, and/or team up with others to address the same challenge.</p>
 
-<p> If you'd like to know more about what the different working groups have prepared for this year's edition, go check out our [schedule](https://brainhackmagdeburg.github.io/schedule/)! </p>
 
 
 ## Acknowledgements
