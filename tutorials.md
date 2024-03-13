@@ -12,9 +12,9 @@ The datasets to choose from are described below
 The Dataset Leaders prepared documentation to assist you in setting up your laptop for effective analysis of the chosen dataset.
 Please check and follow the instructions for the dataset you choose:
 
-[Tutorial for Dataset 1](_img/posts/Preparation%20for_dataset_1.pdf) <br>
-Dataset 2: Neurons dataset from mice in decision making task <br>
-Dataset 3: Block-design human fMRI dataset <br>
+[Dataset 1 Setup Guide](https://sfb1436.de/wp-content/uploads/2024/03/Preparation-for_dataset_1.pdf) <br>
+Dataset 2 Setup Guide <br>
+Dataset 3 Setup Guide <br>
 
 ## Datasets information
 
