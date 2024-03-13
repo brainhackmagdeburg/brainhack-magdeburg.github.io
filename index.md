@@ -8,7 +8,7 @@ layout: default
 title:
 ---
 
-REGISTRATIONS CLOSED!
+<p> <strong> - We no longer accept registrations - </strong> 
 
 <p style="text-align: center;"> Welcome back to a new edition of Brainhack Magdeburg @OVGU Medical Campus!</p>
 
