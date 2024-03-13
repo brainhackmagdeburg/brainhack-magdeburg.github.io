@@ -7,6 +7,15 @@ permalink: /tutorials/
 During the first day of the even, we invite you to choose a dataset of interest and to collaborate in groups to explore research questions based on that dataset. 
 The datasets to choose from are described below
 
+## Prepare for the event!
+
+The Dataset Leaders prepared documentation to assist you in setting up your laptop for effective analysis of the chosen dataset.
+Please check and follow the instructions for the dataset you choose:
+
+Dataset 1: Protein expression in Down’s syndrome mice model
+Dataset 2: Neurons dataset from mice in decision making task 
+Dataset 3: Block-design human fMRI dataset 
+
 ## Datasets information
 
 
@@ -47,6 +56,5 @@ The datasets to choose from are described below
     </tr>
   </table>
 
-## Getting ready 
-The Dataset Leaders will soon provide documentation to assist you in setting up your laptop for effective analysis of the chosen dataset.
+
 
