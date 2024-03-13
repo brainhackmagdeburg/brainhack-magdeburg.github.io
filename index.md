@@ -19,7 +19,6 @@ title:
 If you'd like to know more about what the different working groups have prepared for this year's edition, go check out our [schedule](https://brainhackmagdeburg.github.io/schedule/)!
 
 
-
 ## Acknowledgements
 
 The Organising Committee would like to thank 
