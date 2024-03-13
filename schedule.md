@@ -39,4 +39,3 @@ permalink: /schedule/
   </ul>
 
   
-  Refreshments will be available throughout the days.
