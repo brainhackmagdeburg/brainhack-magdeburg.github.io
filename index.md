@@ -16,12 +16,12 @@ title:
 
 <p> <strong> You are a beginner? Don't worry!</strong> All levels of expertise are welcome! The hands-on sessions are supervised so you can ask questions on your analyses, get feedback, and/or team up with others to address the same challenge.</p>
 
-If you'd like to know more about what the different working groups have prepared for this year's edition, go check out our [schedule](https://brainhackmagdeburg.github.io/schedule/)!
+<p> If you'd like to know more about what the different working groups have prepared for this year's edition, go check out our [schedule](https://brainhackmagdeburg.github.io/schedule/)! </p>
 
 
 ## Acknowledgements
 
-The Organising Committee would like to thank 
+<p> The Organising Committee would like to thank </p>
 
 ![Acknowledgments](https://github.com/brainhackmagdeburg/brainhackmagdeburg.github.io/assets/159427588/025eef8b-6521-4197-a115-59854a770990)
 
