@@ -12,7 +12,7 @@ The datasets to choose from are described below
 The Dataset Leaders prepared documentation to assist you in setting up your laptop for effective analysis of the chosen dataset.
 Please check and follow the instructions for the dataset you choose:
 
-<a href="_img/posts/Preparation for_dataset_1.pdf" target="_blank">Dataset 1: Protein expression in Down’s syndrome mice model</a> <br>
+[Tutorial for Dataset 1](_img/posts/Preparation%20for_dataset_1.pdf) <br>
 Dataset 2: Neurons dataset from mice in decision making task <br>
 Dataset 3: Block-design human fMRI dataset <br>
 
