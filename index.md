@@ -17,7 +17,7 @@ title:
 
 
 
-## Acknowledgements
+## Acknowledgements ##
 
 <p> The Organising Committee would like to thank </p>
 
