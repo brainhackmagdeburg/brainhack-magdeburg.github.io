@@ -14,7 +14,8 @@ Please check and follow the instructions for the dataset you choose:
 
 [Dataset 1 Setup Guide](https://sfb1436.de/wp-content/uploads/2024/03/Preparation-for_dataset_1.pdf) <br>
 Dataset 2 Setup Guide <br>
-Dataset 3 Setup Guide <br>
+<a href="https://colab.research.google.com/drive/1FibQoAGqu5qQggtxd7cbdEFnp6O7myLE?invite=COKxrLYH&ts=65f1b3e1">Dataset 3 Setup Guide</a>
+
 
 ## Datasets information
 
