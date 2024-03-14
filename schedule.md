@@ -25,7 +25,7 @@ permalink: /schedule/
 <h3>Day 1 - 18.03</h3>
   <ul>
     <li>13:00-13:30 - Introduction to Brainhack & Datasets Presentation </li>
-    <li>13:00-15:00 - Teams organisation & <span class="bold-color">Open Hacking</span></li>
+    <li>13:30-15:00 - Teams organisation & <span class="bold-color">Open Hacking</span></li>
     <li>15:00-15:30 - <span class="Talk">Talk:</span> "Introduction to fMRI analysis" - Gabriel Ziegler</li>
     <li>15:30-17:30 - <span class="bold-color">Open Hacking</span></li>
   </ul>
