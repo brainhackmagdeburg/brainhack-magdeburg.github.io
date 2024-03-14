@@ -21,6 +21,6 @@ title:
 
 <p> The Organising Committee would like to thank </p>
 
-!(https://github.com/brainhackmagdeburg/brainhackmagdeburg.github.io/assets/img/posts/BH_Acknowledgments.png)
 
-<img src="BH_Acknowledgments.png" alt="Description of the image">
+
+<img src="https://raw.githubusercontent.com/brainhackmagdeburg/brainhackmagdeburg.github.io/master/assets/img/posts/BH_Acknowledgments.png" alt="">
